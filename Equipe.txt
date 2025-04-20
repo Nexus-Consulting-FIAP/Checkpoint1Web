@@ -4,3 +4,4 @@ Rm, Nome
 562757, Lucas de Almeida Pires
 561603, João Pedro Raimundo Marcilio
 563880, Lucas Zanella Clemente
+562077, João Pedro Ribeiro Palermo
